@@ -1,0 +1,11 @@
+# Compiled output & build directories
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.idea/
+*.local
+
+# OS specific files
+.DS_Store
+Thumbs.db
